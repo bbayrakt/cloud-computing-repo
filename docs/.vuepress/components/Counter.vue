@@ -43,15 +43,15 @@ export default {
   color: #fff;
   text-align: center;
   padding: 30px 0;
-  margin-bottom: 10px;
+  margin-bottom: 120px;
 }
 
 .counter-actions {
-  margin-bottom: 10px;
+  margin-bottom: 120px;
 }
 
 .counter-button {
-  border-radius: 50%;
+  border-radius: 20%;
   width: 150px;
   height: 150px;
   margin-right: 15px;

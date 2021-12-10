@@ -51,7 +51,7 @@ export default {
 }
 
 .counter-button {
-  border-radius: 50%;
+  border-radius: 20%;
   width: 150px;
   height: 150px;
   margin-right: 15px;

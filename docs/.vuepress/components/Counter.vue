@@ -43,11 +43,11 @@ export default {
   color: #fff;
   text-align: center;
   padding: 30px 0;
-  margin-bottom: 10px;
+  margin-bottom: 120px;
 }
 
 .counter-actions {
-  margin-bottom: 10px;
+  margin-bottom: 120px;
 }
 
 .counter-button {
